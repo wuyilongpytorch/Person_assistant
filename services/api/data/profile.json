@@ -1,0 +1,37 @@
+{
+  "gender": {
+    "value": "男",
+    "evidence": "吴一龙，男，1999 年 5 月生，现居新加坡（Queenstown）。身高180，体重75kg。本科毕业于华南理工大学软件工程专业（2017.09–2021.06），毕业后从事 Web 应用与后端服务开发方向工作，具备全栈开发能力。联系邮箱：wuyilong.dev@testmail.com",
+    "source": "简历.txt"
+  },
+  "birth_year": {
+    "value": "1999",
+    "evidence": "吴一龙，男，1999 年 5 月生，现居新加坡（Queenstown）。身高180，体重75kg。本科毕业于华南理工大学软件工程专业（2017.09–2021.06），毕业后从事 Web 应用与后端服务开发方向工作，具备全栈开发能力。联系邮箱：wuyilong.dev@testmail.com",
+    "source": "简历.txt"
+  },
+  "birth_month": {
+    "value": "5",
+    "evidence": "吴一龙，男，1999 年 5 月生，现居新加坡（Queenstown）。身高180，体重75kg。本科毕业于华南理工大学软件工程专业（2017.09–2021.06），毕业后从事 Web 应用与后端服务开发方向工作，具备全栈开发能力。联系邮箱：wuyilong.dev@testmail.com",
+    "source": "简历.txt"
+  },
+  "height_cm": {
+    "value": "180",
+    "evidence": "吴一龙，男，1999 年 5 月生，现居新加坡（Queenstown）。身高180，体重75kg。本科毕业于华南理工大学软件工程专业（2017.09–2021.06），毕业后从事 Web 应用与后端服务开发方向工作，具备全栈开发能力。联系邮箱：wuyilong.dev@testmail.com",
+    "source": "简历.txt"
+  },
+  "weight_kg": {
+    "value": "75",
+    "evidence": "吴一龙，男，1999 年 5 月生，现居新加坡（Queenstown）。身高180，体重75kg。本科毕业于华南理工大学软件工程专业（2017.09–2021.06），毕业后从事 Web 应用与后端服务开发方向工作，具备全栈开发能力。联系邮箱：wuyilong.dev@testmail.com",
+    "source": "简历.txt"
+  },
+  "undergrad_school": {
+    "value": "华南理工大学",
+    "evidence": "吴一龙，男，1999 年 5 月生，现居新加坡（Queenstown）。身高180，体重75kg。本科毕业于华南理工大学软件工程专业（2017.09–2021.06），毕业后从事 Web 应用与后端服务开发方向工作，具备全栈开发能力。联系邮箱：wuyilong.dev@testmail.com",
+    "source": "简历.txt"
+  },
+  "undergrad_major": {
+    "value": "本科毕业于华南理工大学软件工程",
+    "evidence": "吴一龙，男，1999 年 5 月生，现居新加坡（Queenstown）。身高180，体重75kg。本科毕业于华南理工大学软件工程专业（2017.09–2021.06），毕业后从事 Web 应用与后端服务开发方向工作，具备全栈开发能力。联系邮箱：wuyilong.dev@testmail.com",
+    "source": "简历.txt"
+  }
+}
