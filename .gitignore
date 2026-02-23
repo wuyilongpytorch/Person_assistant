@@ -1,0 +1,22 @@
+
+# Python venv
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# Node
+node_modules/
+**/node_modules/
+
+# Caches / build
+__pycache__/
+*.pyc
+.cache/
+.next/
+dist/
+build/
+
+# Env secrets
+.env
+.env.*
